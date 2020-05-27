@@ -8,7 +8,11 @@ Project build to predict ranking scores for frame-wise region of interests based
 ## Goal
 Automatically Formulate Viewport Candidates based on Salient Regions (+ story importance?)
 
-## Running environment w/ requirements
+## Setup
+
+### Docker file
+
+### Running environment w/ requirements
 
 *Linux dist*
 
