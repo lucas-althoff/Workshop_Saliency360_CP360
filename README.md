@@ -1,9 +1,9 @@
 # Workshop Saliency for 360-degree Data
 This Workshop was planned to show the evolution 
 
-## First Model Studied : 
+## Models: 
 
-[CubePadding](http://aliensunmin.github.io/project/360saliency/)
+### [CubePadding](http://aliensunmin.github.io/project/360saliency/)
 
 - Data type: Video
 - Backbone: ResNet50
