@@ -11,8 +11,8 @@ This Workshop was planned to show the evolution
 
 ## References and Materials
 
-[Basic course on Pytorch](https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/)
-[Review on Saliency - Ali Borji]()
+> [Basic course on Pytorch](https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/)
+> [Review on Saliency - Ali Borji]()
 
 This project is part of the **360RankRoI System**
 
