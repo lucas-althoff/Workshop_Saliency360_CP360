@@ -3,11 +3,12 @@ This Workshop was planned to show the evolution
 
 ## Models: 
 
-### [CubePadding](http://aliensunmin.github.io/project/360saliency/)
+### 1. [CubePadding](http://aliensunmin.github.io/project/360saliency/)
 
 - Data type: Video
 - Backbone: ResNet50
 - Distortion: Handled by CubeMap + Padding
+- Implementation: Pytorch > 0.3 + Python > 3.5
 
 ## References and Materials
 
