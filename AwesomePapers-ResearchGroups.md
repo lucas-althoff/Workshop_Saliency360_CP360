@@ -1,4 +1,4 @@
-# Awesome Papers for this project distinguished by research groups [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Papers for PES360 project distinguished by research groups [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Awesome works and resources relevant to 360 vision.
 
 Suggestions or pull requests are welcome.
