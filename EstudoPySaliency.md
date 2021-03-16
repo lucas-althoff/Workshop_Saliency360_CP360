@@ -24,3 +24,20 @@ Descrever em poucas palavras como foi o estudo de PySaliency. Utilizem os recurs
 
 
 # Israel
+## Ambientes testados
+* Notebooks em Colab
+* Jupyter notebook por anaconda
+* Diretamente do terminal do python
+
+## Problemas
+### Colab
+É necessária a importação de bibliotecas que não existem
+
+### Jupyter notebook
+O kernel utilizado no código é de Python 2.7, o que impede a compilação correta em Jupyter. Olhando a documentação do Py 2.7 explica-se o motivo das bibliotecas não serem achadas em colab
+
+### Local pelo terminal
+É explicado no git do projeto como instalar diretamente por pypi. Quando tentei instalar, tive problema com o comando pip que eu não pude resolver antes da reunião.
+
+## Situação atual
+Download de novo algoritmo a ser rodado em MATLAB e estudo de artigos na área em busca de bons algoritmos.
